@@ -1,0 +1,4 @@
+imutils
+opencv-python
+opencv-python-contrib
+numpy
