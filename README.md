@@ -15,3 +15,9 @@ To execute python scripts use
 ```sh
   python3 filename.py
 ```
+
+## Installing Libraries
+
+```sh
+  pip3 install -r requirements.txt
+```
