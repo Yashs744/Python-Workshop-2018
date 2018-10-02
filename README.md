@@ -1,6 +1,8 @@
 # Python-Workshop-2018
 In-house Python Programming Workshop 2018 at Aryabhatta College, University of Delhi.
 
+![Python-Programming-Workshop-2018](https://github.com/Yashs744/Python-Workshop-2018/blob/master/IMG/PythonWorkshop2018.jpg)
+
 ## Objective
 Objective of the Workshop was-to attract the students towards the beauty of the Python Programming Langauge and to motivate them to-learn and explore more by giving a brief introduction to the langauge. <br>
 With the consensus audience "Object Tracking" was chosen the main skill development program in-the Python Workshop around which the workshop was centered.
