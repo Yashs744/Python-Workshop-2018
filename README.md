@@ -55,7 +55,7 @@ To execute python scripts use
 
 To execute ObjectTracking.py
 ```sh
-  python ObjectTracking.py
+  python3 ObjectTracking.py
 ```
 
 ### Example
