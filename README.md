@@ -68,7 +68,7 @@ To execute ObjectTracking.py
 ---
 
 ## Resources
-  - [Automate the Boring Stuff with Python](automatetheboringstuff.com/)
+  - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [Learn Python the Hard Way](https://learnpythonthehardway.org)
   - [Real Python](https://realpython.com/)
   - [Codecademy](https://www.codecademy.com/learn/learn-python)
