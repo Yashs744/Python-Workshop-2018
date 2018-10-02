@@ -65,6 +65,8 @@ To execute ObjectTracking.py
 
 ![Tracking Player](https://github.com/Yashs744/Python-Workshop-2018/blob/master/IMG/IMG%233.png)
 
+Video used: [Short Mini NFL Football Video Clip](https://www.youtube.com/watch?v=EVKTXfj2lck)
+
 ---
 
 ## Resources
